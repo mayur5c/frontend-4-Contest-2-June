@@ -129,7 +129,7 @@ export default function Login() {
             </div>
             <div>
               <a
-                href="https://github.com/shubham-lolusare/Acciojob_Module_Test_F4_05.05.2023"
+                href="https://github.com/mayur5c/frontend-4-contest-2-june"
                 target="_blank"
                 rel="noreferrer"
               >
