@@ -1,5 +1,5 @@
-# Acciojob_Module_Test_F4_05.05.2023
-- Deployed Link: https://shubham-lolusare.github.io/Acciojob_Module_Test_F4_05.05.2023/
+# Acciojob Contest 2 - Frontend 4
+- Deployed Link: https://mayur5c.github.io/frontend-4-contest-2-june/
 
 # Task
 - To execute dummy authentication using api given at https://dummyjson.com/docs/auth

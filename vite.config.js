@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Acciojob_Module_Test_F4_05.05.2023/",
+  base: "/frontend-4-contest-2-june/",
   plugins: [react()],
 });
